@@ -78,3 +78,5 @@ Each service uses **Maven** to manage dependencies, build lifecycle, and compile
 - Asynchronous, decoupled messaging via Kafka producer/consumer  
 - Experience configuring and orchestrating PostgreSQL, Kafka, Zookeeper, and Docker Compose  
 - Effective use of Maven for dependency management, protobuf generation, and service builds
+
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/5665738e-ef91-4aca-8785-d8fbf60429fd" />
